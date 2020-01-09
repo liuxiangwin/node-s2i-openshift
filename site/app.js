@@ -9,7 +9,7 @@ var backendApi = require("./backendApi")
 
 
 logger.level = 'debug';
-logger.debug("launching Example health endpoint");
+logger.debug("launching Example health endpoint -v2");
 
 /* end of dependency setup */
 
